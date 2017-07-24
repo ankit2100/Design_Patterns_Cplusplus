@@ -1,1 +1,6 @@
-*.rb linguist-language=C++
+*.rb linguist-language=Shell
+*.rb linguist-language=Makefile
+*.rb linguist-language=Text
+*.rb linguist-language=Roff
+*.rb linguist-language=M4Sugar
+*.rb linguist-language=XML
