@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401A25
+eax=0000001C ebx=800870C8 ecx=FFFFFFFF edx=00000010 esi=0000000B edi=0000006C
+ebp=0028CBD8 esp=0028CB90 program=C:\eclipse\workspace\Ankit\Learnc++\AdapterPattern\src\a.out.exe, pid 14748, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CBD8  00401A25 (800870C8, 80087098, 0028CBF7, 61013593)
+0028CC18  00401C23 (80072588, 611D9DB2, 0028CD28, 61007ACF)
+0028CD28  61007ACF (00000000, 0028CD84, 61006B00, 00000000)
+End of stack trace
